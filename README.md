@@ -109,14 +109,3 @@ The goal of StartHub is to create a centralized and engaging platform where inno
 
 ---
 
-## Team
-
-Project developed for a hackathon prototype.
-
-Add your team members here.
-
----
-
-## License
-
-This project is created for educational and hackathon purposes.
